@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.779,=C:\Users\Дима\Documents\RAD Studio\Projects\Project15PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.933,=C:\Users\Дима\Documents\RAD Studio\Projects\Project15PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,=C:\Users\Дима\Documents\RAD Studio\Projects\Project15PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.931,=C:\Users\Дима\Documents\RAD Studio\Projects\Project15PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.674,=C:\Users\Дима\Documents\RAD Studio\Projects\Unit16.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.945,=C:\Users\Дима\Documents\RAD Studio\Projects\Unit16.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,=C:\Users\Дима\Documents\RAD Studio\Projects\Project15PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,=C:\Users\Дима\Documents\RAD Studio\Projects\patcher\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,C:\Users\Дима\Documents\RAD Studio\Projects\patcher\Unit1.cpp=C:\Users\Дима\Documents\RAD Studio\Projects\patcher\offs_calc.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,C:\Users\Дима\Documents\RAD Studio\Projects\patcher\main.cpp=C:\Users\Дима\Documents\RAD Studio\Projects\Unit16.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,C:\Users\Дима\Documents\RAD Studio\Projects\patcher\patch.cbproj=C:\Users\Дима\Documents\RAD Studio\Projects\Project15.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,=C:\Users\Дима\Documents\RAD Studio\Projects\Project15PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.430,=C:\Users\Дима\Documents\RAD Studio\Projects\Project15PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,C:\Users\Дима\Documents\RAD Studio\Projects\patcher\patch.cbproj=C:\Users\Дима\Documents\RAD Studio\Projects\patcher\patch.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.160,C:\Users\Дима\Documents\RAD Studio\Projects\patcher\patcher.h=C:\Users\Дима\Documents\RAD Studio\Projects\Project15PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,C:\Users\Дима\Documents\RAD Studio\Projects\patcher\Unit2.cpp=C:\Users\Дима\Documents\RAD Studio\Projects\patcher\help.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.981,=C:\Users\Дима\Documents\RAD Studio\Projects\patcher\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,C:\Users\Дима\Documents\RAD Studio\Projects\patcher\Unit1.dfm=C:\Users\Дима\Documents\RAD Studio\Projects\patcher\offs_calc.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,C:\Users\Дима\Documents\RAD Studio\Projects\patcher\Unit2.h=C:\Users\Дима\Documents\RAD Studio\Projects\patcher\help.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,C:\Users\Дима\Documents\RAD Studio\Projects\patcher\main.h=C:\Users\Дима\Documents\RAD Studio\Projects\Unit16.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,C:\Users\Дима\Documents\RAD Studio\Projects\patcher\Unit1.h=C:\Users\Дима\Documents\RAD Studio\Projects\patcher\offs_calc.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.810,=C:\Users\Дима\Documents\RAD Studio\Projects\Unit16.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,=C:\Users\Дима\Documents\RAD Studio\Projects\Unit16.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,=C:\Users\Дима\Documents\RAD Studio\Projects\Unit16.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,=C:\Users\Дима\Documents\RAD Studio\Projects\Unit16.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,C:\Users\Дима\Documents\RAD Studio\Projects\patcher\Unit2.dfm=C:\Users\Дима\Documents\RAD Studio\Projects\patcher\help.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,C:\Users\Дима\Documents\RAD Studio\Projects\patcher\main.dfm=C:\Users\Дима\Documents\RAD Studio\Projects\Unit16.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.435,=C:\Users\Дима\Documents\RAD Studio\Projects\Unit16.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
